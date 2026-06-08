@@ -26,7 +26,7 @@ Validation performed using `StressTest.cpp`, simulating extreme multithreaded lo
 Optimized for **Linux** (x86_64). Requires a compiler with C++20 support.
 
 ```bash
-git clone https://github.com/kauan-systems/InfernalMemoryAllocator.git
+git clone https://github.com/KauanSystems/IMA17X.git
 
 cd InfernalMemoryAllocator
 
