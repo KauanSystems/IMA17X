@@ -28,7 +28,7 @@ Optimized for **Linux** (x86_64). Requires a compiler with C++20 support.
 ```bash
 git clone https://github.com/KauanSystems/IMA17X.git
 
-cd InfernalMemoryAllocator
+cd IMA17X
 
 mkdir build && cd build
 
